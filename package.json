@@ -1,0 +1,25 @@
+{
+  "name": "express-mysql",
+  "version": "1.0.0",
+  "description": "Restful Nodejs API with Express and MYSQL ",
+  "main": "express.js",
+  "scripts": {
+    "start": "node ./node_modules/nodemon/bin/nodemon.js ./express.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Express",
+    "Node",
+    "MySQL",
+    "Restful"
+  ],
+  "author": "Julius Olajumoke",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "core-util-is": "^1.0.2",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.2"
+  }
+}
