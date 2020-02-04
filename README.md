@@ -24,8 +24,8 @@
 
 *	run `http://localhost:3000`
 	* /customers  GET POST 
-	* /customers/1 GET PUT DELETE 
+	* /customers/:customerID GET PUT DELETE 
 
 ### Credits 
 
-* My credit goes to every folk that contribute to Open Source to help advance the Software Development Industry
+* Credit goes to every folk that contribute to Open Source to help advance the Software Development Industry
